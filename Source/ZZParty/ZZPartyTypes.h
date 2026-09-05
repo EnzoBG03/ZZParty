@@ -25,8 +25,8 @@ UENUM(BlueprintType)
 enum class EPartyBoard : uint8
 {
     Aucun UMETA(DisplayName = "Aucun"),
-    Vallee UMETA(DisplayName = "Vallee"),
-    Matrice UMETA(DisplayName = "Matrice"),
+    Vallee UMETA(DisplayName = "Vallée des sockets"),
+    Matrice UMETA(DisplayName = "Matrice translucide"),
     Voxelgard UMETA(DisplayName = "Voxelgard"),
-    CyberArcadia UMETA(DisplayName = "CyberArcadia")
+    CyberArcadia UMETA(DisplayName = "Cyber-Arcadia")
 };
